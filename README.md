@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WyxnnEJ
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning C#, C++
-- ⚡ I'm experienced in: Java, Python, HTML
+- 🌱 I’m currently learning C#, C++, Python
+- ⚡ I'm experienced in: Java, HTML
 - 📫 How to reach me: Discord - Wyxn
 - 😄 Pronouns: he/him
 
