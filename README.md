@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning C#, C++, Python
 - ⚡ I'm experienced in: Java, HTML
-- 📫 How to reach me: Email - earljessec77@gmail.com or Discord - Wyxn
+- 📫 How to reach me: Email - earljessecbusiness@gmail.com or Discord - Wyxn
 - 😄 Pronouns: he/him
 
 
