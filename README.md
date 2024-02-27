@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Earl Jesse Celestino
-- 👀 I’m interested in Game Programming
+- 👀 I’m interested in Game Programming, Web Development
 - 🌱 I’m currently learning C#, C++, Python
 - ⚡ I'm experienced in: Java, HTML
 - 📫 How to reach me: Email - earljessecbusiness@gmail.com or Discord - Wyxn
