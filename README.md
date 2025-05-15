@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Earl Jesse Celestino
-- 👀 I’m interested in Game Programming, Web Development
+- 👀 I’m interested in Ethical Hacking (Mainly Penetration Testing), Game Programming, Web Development
 - 🌱 I’m currently learning C#, C++, Python
-- ⚡ I'm experienced in: Java, HTML
+- ⚡ I'm experienced in: Java, HTML, Bash
 - 📫 How to reach me: Email - earljessecbusiness@gmail.com or Discord - Wyxn
 - 😄 Pronouns: he/him
 
