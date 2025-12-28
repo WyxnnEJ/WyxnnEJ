@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=250&section=header&text=EQUINOX&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=250&section=header&text=Wyxnn&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# Hi there, I'm Wyxnn 👋
+<p align="center">
+  <i>"On the days you have only 40%, and you give 40%, you gave 100%"</i> — <b>Jim Kwik</b>
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/lcrQBLljnNcAAAAC/dark-souls-knight.gif" width="600" />
