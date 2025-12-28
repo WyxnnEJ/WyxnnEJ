@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/lcrQBLljnNcAAAAC/dark-souls-knight.gif" width="600" />
+  <img src="https://media.tenor.com/lcrQBLljnNcAAAAC/dark-souls-knight.gif" width="100%" />
 </p>
 
 ---
