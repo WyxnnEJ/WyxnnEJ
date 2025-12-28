@@ -46,10 +46,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics (W.I.P)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WyxnnEJ&show_icons=true&theme=visual_studio_dark&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyxnnEJ&layout=compact&theme=visual_studio_dark&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WyxnnEJ&show_icons=true&theme=visual_studio_dark&hide_border=true&count_private=true&v=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyxnnEJ&layout=compact&theme=visual_studio_dark&hide_border=true&v=2" />
 </p>
 
 ---
