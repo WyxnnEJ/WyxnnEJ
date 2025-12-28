@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.webs_ans.dev/api/465587784246362114?theme=dark&bg=00000000&animated=true" />
+  <img src="https://lanyard.cnrad.dev/api/465587784246362114?idleMessage=I%20am%20currently%20away...&bg=0d1117&borderRadius=10px" />
 </p>
 
 ---
