@@ -13,7 +13,7 @@
 ---
 
 ### 📬 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/465587784246362114" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
