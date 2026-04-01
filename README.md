@@ -12,7 +12,7 @@
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 <p align="center">
 <a href="https://discord.com/users/465587784246362114" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 **Languages & Logic**
 <p align="left">
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Statistics (W.I.P)
+### GitHub Statistics (W.I.P)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WyxnnEJ&show_icons=true&theme=visual_studio_dark&hide_border=true&count_private=true&v=2" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyxnnEJ&layout=compact&theme=visual_studio_dark&hide_border=true&v=2" />
@@ -54,11 +54,11 @@
 
 ---
 
-### 🧩 Latest Projects
-- **⚔️ EquinoxBot:** Java-based high-concurrency moderation infrastructure.
-- **🛡️ Malware Sandbox:** Isolated environment for binary execution analysis.
-- **🛒 E-Commerce Website:** Full-stack digital commerce architecture.
-- **🌤️ Weather App:** Real-time API integration and data visualization.
+### Latest Projects
+- **EquinoxBot:** Java-based high-concurrency moderation infrastructure.
+- **Malware Sandbox:** Isolated environment for binary execution analysis.
+- **E-Commerce Website:** Full-stack digital commerce architecture.
+- **Weather App:** Real-time API integration and data visualization.
 
 ---
 
